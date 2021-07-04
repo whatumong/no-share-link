@@ -1,1 +1,1 @@
-# utility-link-redirect.github.io
+# utility-link-redirect
